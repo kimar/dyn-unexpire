@@ -1,0 +1,15 @@
+{
+  "name": "dyn-unexpire",
+  "version": "0.0.1",
+  "description": "Automatically confirm your DynDns account activity via Mail.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus Kida",
+  "license": "MIT",
+  "dependencies": {
+    "inbox": "~1.1.39",
+    "request": "~2.27.0"
+  }
+}
