@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "inbox": "~1.1.39",
-    "request": "~2.27.0"
+    "request": "~2.68.0"
   }
 }
